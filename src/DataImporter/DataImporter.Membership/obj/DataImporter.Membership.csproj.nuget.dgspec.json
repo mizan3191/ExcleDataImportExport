@@ -43,6 +43,18 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.2.0, )"
+            },
+            "DevSkill.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "DevSkill.Data": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "DevSkill.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

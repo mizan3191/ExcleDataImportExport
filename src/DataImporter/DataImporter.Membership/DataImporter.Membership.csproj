@@ -5,16 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="BusinessObjects\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Contexts\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="UnitOfWorks\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="DevSkill.Core" Version="5.0.0" />
+    <PackageReference Include="DevSkill.Data" Version="5.0.4" />
+    <PackageReference Include="DevSkill.Http" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
