@@ -405,3 +405,12 @@ E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImport
 E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
 E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\DataImporter.Membership.dll
 E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\DevSkill.Core.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\DevSkill.Data.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\DevSkill.Http.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\log4net.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\MailKit.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\MimeKit.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\SixLabors.ImageSharp.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Web\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
