@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataImporter.Web", "DataImporter.Web\DataImporter.Web.csproj", "{BBD3A626-02DA-46CB-A7C4-D66EA8AC35DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD3A626-02DA-46CB-A7C4-D66EA8AC35DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD3A626-02DA-46CB-A7C4-D66EA8AC35DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD3A626-02DA-46CB-A7C4-D66EA8AC35DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD3A626-02DA-46CB-A7C4-D66EA8AC35DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583678FD-6A07-4057-91D4-091B63C26752}
+	EndGlobalSection
+EndGlobal
