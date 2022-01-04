@@ -1,21 +1,17 @@
 using Autofac;
 using DataImporter.Membership;
+using DataImporter.Membership.Contexts;
 using DataImporter.Web.Data;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace DataImporter.Web
 {
@@ -34,7 +30,8 @@ namespace DataImporter.Web
             var connectionInfo = GetConnectionStringAndAssemblyName();
 
             builder.RegisterModule(new WebModule())
-                .RegisterModule(new MembershipModule());
+                .RegisterModule(new MembershipModule(connectionInfo.connectionString, 
+                connectionInfo.migrationAssemblyName));
         }
 
         private (string connectionString, string migrationAssemblyName) GetConnectionStringAndAssemblyName()
@@ -50,6 +47,9 @@ namespace DataImporter.Web
         {
             var connectionInfo = GetConnectionStringAndAssemblyName();
 
+            services.AddDbContext<MembershipDbContext>(options =>
+                     options.UseSqlServer(connectionInfo.connectionString, b =>
+                     b.MigrationsAssembly(connectionInfo.migrationAssemblyName)));
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connectionInfo.connectionString));
@@ -119,9 +119,9 @@ namespace DataImporter.Web
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
             app.UseSession();
             app.UseAuthentication();
