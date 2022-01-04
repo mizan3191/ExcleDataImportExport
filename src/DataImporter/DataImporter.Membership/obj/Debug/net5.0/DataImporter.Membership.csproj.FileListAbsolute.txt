@@ -1,0 +1,36 @@
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.deps.json
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\bin\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.AssemblyReference.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfoInputs.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfo.cs
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.CoreCompileInputs.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.AssemblyReference.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfoInputs.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfo.cs
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.CoreCompileInputs.cache
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.deps.json
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.AssemblyReference.cache
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfoInputs.cache
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.AssemblyInfo.cs
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.csproj.CoreCompileInputs.cache
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\obj\Debug\net5.0\DataImporter.Membership.pdb
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.deps.json
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\ref\DataImporter.Membership.dll
+E:\DataImportExport\New folder\ExcleDataImportExport\src\DataImporter\DataImporter.Membership\bin\Debug\net5.0\DataImporter.Membership.pdb

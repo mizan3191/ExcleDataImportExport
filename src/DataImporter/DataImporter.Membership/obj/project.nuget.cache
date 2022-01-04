@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSB2EG3ze7CkNNEjMssK0X9EW6yBMjs89W0BBGzZPeCDA3sPQx1drqL1slvbWetn/jvPMMvzgL7JsQcIQKm/Zg==",
+  "success": true,
+  "projectFilePath": "E:\\DataImportExport\\New folder\\ExcleDataImportExport\\src\\DataImporter\\DataImporter.Membership\\DataImporter.Membership.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mizan\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\mizan\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\mizan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

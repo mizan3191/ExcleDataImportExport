@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85da9a66-dc90-4980-a354-a6878cb042c2": {
+      "ProjectGuid": "85da9a66-dc90-4980-a354-a6878cb042c2",
+      "DisplayName": "DataImporter.Web",
+      "ColorIndex": 0
+    },
+    "adbb3b61-9596-4591-bc64-46aa862de8eb": {
+      "ProjectGuid": "adbb3b61-9596-4591-bc64-46aa862de8eb",
+      "DisplayName": "DataImporter.Membership",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
