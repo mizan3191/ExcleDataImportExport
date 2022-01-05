@@ -1,0 +1,52 @@
+﻿@model IndexModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<nav class="main-sidebar-custom navbar navbar-expand navbar-white navbar-light">
+    <ul class="navbar-nav">
+       @* <partial name="_NavbarPartial" />*@
+    </ul>
+    <ul class="navbar-nav ml-auto">
+        <partial name="_LoginPartial" />
+    </ul>
+</nav>
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="text-center">
+            <div class="d-flex justify-content-center" style="margin: 14px">
+                <div class="col-lg-2 col-6">
+                    <div class="small-box bg-info">
+                        <div class="inner text-white">
+                            <h3 style="font-size: 50px">150</h3>
+                            <p style="font-size: 20px">Total Import</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-6">
+                    <div class="small-box bg-success">
+                        <div class="inner text-white">
+                            <h3 style="font-size: 50px">53</h3>
+                            <p style="font-size: 20px">Total Export</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-6">
+                    <div class="small-box text-white bg-warning">
+                        <div class="inner text-white">
+                            <h3 style="font-size: 50px">50</h3>
+                            <p style="font-size: 20px">Total Groups</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="text-center">
+    <h1 class="display-4"><b>Welcome</b></h1>
+    <p><b>to our group! We hope for a long and successful journey with you.</b></p>
+</div>

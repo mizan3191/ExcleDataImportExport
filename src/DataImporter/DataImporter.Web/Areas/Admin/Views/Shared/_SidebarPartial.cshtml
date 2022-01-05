@@ -1,0 +1,115 @@
+﻿<div class="sidebar">
+    <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="image">
+            <img src="/img/devskilllogo.png" class="img-circle elevation-2" alt="User Image">
+        </div>
+        <div class="info">
+            <a href="#" class="d-block">DevSkill</a>
+        </div>
+    </div>
+
+    <!-- SidebarSearch Form -->
+    <div class="form-inline">
+        <div class="input-group" data-widget="sidebar-search">
+            <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+            <div class="input-group-append">
+                <button class="btn btn-sidebar">
+                    <i class="fas fa-search fa-fw"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sidebar Menu -->
+    <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-users"></i>
+                    <p> Groups <i class="fas fa-angle-left right"></i></p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a asp-action="CreateGroup" asp-area="" asp-controller="Group" class="nav-link">
+                            <p> Create Group</p>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a asp-action="AvailableGroup" asp-area="" asp-controller="Group" class="nav-link">
+                            <p> Available Group</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Sidebar Customs Fields -->
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon icon fas fa-user-shield"></i>
+                    <p>Customs Fields <i class="fas fa-angle-left right"></i></p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a asp-action="CoustomField" asp-area="" asp-controller="Home" class="nav-link">
+                            <p> Customs Fields</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Sidebar Contacts -->
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-address-book"></i>
+                    <p>Contacts <i class="fas fa-angle-left right"></i></p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a asp-action="Contact" asp-area="" asp-controller="Home" class="nav-link">
+                            <p> Contacts</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Sidebar Imports -->
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-upload"></i>
+                    <p>Imports <i class="fas fa-angle-left right"></i></p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a asp-action="ImportFile" asp-area="" asp-controller="Import" class="nav-link">
+                            <p > Imports</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="ImportHistory" asp-area="" asp-controller="Import" class="nav-link">
+                            <p > History</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Sidebar Exports -->
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-download"></i>
+                    <p>Exports<i class="fas fa-angle-left right"></i></p>
+                </a>
+                <ul class="nav nav-treeview">
+                    
+                    <li class="nav-item">
+                        <a asp-action="Email" asp-area="" asp-controller="Export" class="nav-link">
+                            <p> Email</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="ExportHistory" asp-area="" asp-controller="Export" class="nav-link">
+                            <p> History</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+</div>
